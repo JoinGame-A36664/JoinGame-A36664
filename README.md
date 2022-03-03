@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JoinGame-A36664&label=Profile%20views&color=42b883&style=flat" alt="JoinGame-A36664" /> </p>
 
-<img align='right' src="https://i.gifer.com/kgU.gif" width="200">
+<img align='right' src="https://gifer.com/kgU" width="200">
 
 - 🏫  I'm a student at Thang Long University - TLU
 
