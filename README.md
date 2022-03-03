@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JoinGame-A36664&label=Profile%20views&color=42b883&style=flat" alt="JoinGame-A36664" /> </p>
 
 <img align='right' src="https://gifer.com/kgU" width="200">
-<iframe src="https://gifer.com/embed/Ysrm" width=480 height=560.640 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://gifer.com/embed/Ysrm" width=480 height=560.640 frameBorder="0" allowFullScreen></img><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 🏫  I'm a student at Thang Long University - TLU
 
